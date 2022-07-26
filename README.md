@@ -20,13 +20,14 @@
 - GitFlow
 
 ## Live Demo (Link for Our Financial Metrics)
+https://rainbow-chimera-f57cdd.netlify.app/
 
 ### Github
 
 
 ## Video Presentation:
 
--
+-https://www.loom.com/share/d4919af46afc4bd1a58770e87b1ad921
 
 ## Development set up
 
